@@ -1,5 +1,5 @@
 const stateValues = {
-    "Maine": 50, "Vermont": 2, "New Hampshire": 3, "New Jersey": 4, "Idaho": 5,
+    "Maine": 1, "Vermont": 2, "New Hampshire": 3, "New Jersey": 4, "Idaho": 5,
     "Virginia": 6, "Rhode Island": 7, "Connecticut": 8, "Wyoming": 9, "Massachusetts": 10,
     "Pennsylvania": 11, "New York": 12, "Kentucky": 13, "Wisconsin": 14, "Minnesota": 15,
     "West Virginia": 16, "Iowa": 17, "North Dakota": 18, "Nebraska": 19, "Michigan": 20,
@@ -8,7 +8,7 @@ const stateValues = {
     "Oregon": 31, "Maryland": 32, "Colorado": 33, "Delaware": 34, "California": 35,
     "Texas": 36, "Georgia": 37, "Washington": 38, "Kansas": 39, "Oklahoma": 40,
     "Nevada": 41, "Missouri": 42, "Arizona": 43, "Alabama": 44, "South Carolina": 45,
-    "Arkansas": 46, "Tennessee": 47, "Louisiana": 48, "Alaska": 49, "New Mexico": 1
+    "Arkansas": 46, "Tennessee": 47, "Louisiana": 48, "Alaska": 49, "New Mexico": 50
 };
 
 
